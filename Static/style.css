@@ -1,0 +1,16 @@
+body {
+background: white url("Image1.jpg") no-repeat;
+}
+h1 {
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+}
+
+p {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 200%;
+    font-weight: 300;
+}
